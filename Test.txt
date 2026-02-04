@@ -1,5 +1,5 @@
-Penalty Clause 
-Bill of Material 
-Mix Ratio 
+Penalty Clause
+Bill of Materials 
+Mix ratio 
 Princing Strategy 
 Mask Product Range 
