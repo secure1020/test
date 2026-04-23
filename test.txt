@@ -1,0 +1,6 @@
+patient data API 
+Input & Output Validation 
+Patient Registration API 
+Pharmacy Prescription & Dispensing API 
+Clinical Order Management 
+Discharge Summary & Final Billing Endpoints
