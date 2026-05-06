@@ -1,5 +1,11 @@
-Penalty Clause
-Bill of Materials 
-Mix ratio 
-Princing Strategy 
-Mask Product Range 
+Password 
+Credentials 
+API_KEY
+Private key 
+VPN
+Firewall
+Vulnerability 
+VAPT
+SOC
+report 
+source code
