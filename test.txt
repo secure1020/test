@@ -1,10 +1,6 @@
-password 
-credentials 
-API_KEYS
-Private key 
+Aadhard card 
+Pan card
+Password 
+Credentials 
 VPN
-Firewall
-Vulnerability 
-VAPT 
-SOC report
-source code 
+firewall
