@@ -1,7 +1,7 @@
-addhar card
-pan card
-Password
+password 
 credentials 
 API_KEY
-private key 
-gambling 
+Private key 
+Adhar card
+PAN card 
+personal Information
