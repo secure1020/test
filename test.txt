@@ -1,10 +1,10 @@
 password 
-Credentials 
+credentials 
 API_KEYS
-Private keys 
+Private key 
 VPN
 Firewall
 Vulnerability 
-VAPT
-SOC report 
+VAPT 
+SOC report
 source code 
