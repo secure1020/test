@@ -1,6 +1,7 @@
-Aadhard card 
-Pan card
-Password 
-Credentials 
-VPN
-firewall
+addhar card
+pan card
+Password
+credentials 
+API_KEY
+private key 
+gambling 
