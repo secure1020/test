@@ -1,7 +1,6 @@
-password 
+pan card 
+adhar card
+password
 credentials 
-API_KEY
-Private key 
-Adhar card
-PAN card 
-personal Information
+API_KEY 
+Private key
